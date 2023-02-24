@@ -2,7 +2,7 @@ import Behance from '../assets/icons/Behance.svg'
 import Dribble from '../assets/icons/Dribbble.svg'
 import Linkedin from '../assets/icons/Linkedin.svg'
 import Instagram from '../assets/icons/Instagram.svg'
-import Twitter from '../assets/icons/Twitter.svg'
+// import Twitter from '../assets/icons/Twitter.svg'
 import Github from '../assets/icons/Github.svg'
 
 export const Social = () => {
