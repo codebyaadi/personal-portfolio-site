@@ -17,7 +17,9 @@ export const Projects = () => {
                     url="https://sanmusic.netlify.com"
                 />
                 <div className="more-projects">
-                    <button className="ghost-btn">show me more</button>
+                    <a href="https://github.com/uixaadi?tab=repositories">
+                        <button className="ghost-btn">show me more</button>
+                    </a>
                 </div>
                 {/* <ProjectCard
                     img={projectone}
