@@ -9,19 +9,19 @@ export const Social = () => {
     return (
         <>
         <div className="social">
-            <a href="https://www.instagram.com/uix.aadi/" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/codebyaadi/" target="_blank" rel="noreferrer">
                 <img src={Instagram} alt="instagram" />
             </a>
             <a href="https://dribbble.com/uixaadi" target="_blank" rel="noreferrer">
                 <img src={Dribble} alt='dribble' />
             </a>
-            <a href="https://www.linkedin.com/in/uixaadi/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/codebyaadi/" target="_blank" rel="noreferrer">
                 <img src={Linkedin} alt='linkedin' />
             </a>
             <a href="https://www.behance.net/" target="_blank" rel="noreferrer">
                 <img src={Behance} alt='behance' />
             </a>
-            <a href="https://github.com/uixaadi" target="_blank" rel="noreferrer">
+            <a href="https://github.com/codebyaadi" target="_blank" rel="noreferrer">
                 <img src={Github} alt='github' />
             </a>
         </div>
