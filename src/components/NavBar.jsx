@@ -11,7 +11,7 @@ export const NavBar = () => {
 
     return (
         <div className="navigation">
-            <div className='logo'><a href='#hero-section'>uix.aadi</a></div>
+            <div className='logo'><a href='#hero-section'>codebyaadi</a></div>
             <nav ref={navRef} >
                 <ul className='menu'>
                     <li><a href='./'>Home</a></li>
