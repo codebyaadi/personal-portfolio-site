@@ -6,7 +6,7 @@ import backend from '../assets/icons/backend.svg'
 export const Skills = () => {
 
     return (
-        <section className="skills">
+        <section className="skill-section">
             <h2>skills</h2>
             <div className="skills-grid">
                 <SkillCard 
