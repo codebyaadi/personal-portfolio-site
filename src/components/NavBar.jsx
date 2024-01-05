@@ -16,8 +16,8 @@ export const NavBar = () => {
                 <ul className='menu'>
                     <li><a href='./'>Home</a></li>
                     <li><a href='./#about-me-section' onClick={showNavBar}>About me</a></li>
-                    <li><a href='#projects'>Projects</a></li>
-                    <li><a href='#skills'>Skills</a></li>
+                    <li><a href='./#projects'>Projects</a></li>
+                    <li><a href='./#skills'>Skills</a></li>
                     <li><a href='./#contact' onClick={showNavBar}>Contact</a></li>
                 </ul>
                 <button className="false-btn close-btn" onClick={showNavBar}>
