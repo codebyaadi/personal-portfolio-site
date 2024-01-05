@@ -3,7 +3,7 @@ import project from '../assets/img/project-one.png'
 
 export const Projects = () => {
     return (
-        <section className="projects">
+        <section className="project-section ">
             <h2>Projects</h2>
             <div className="project-details">
                 <ProjectCard
